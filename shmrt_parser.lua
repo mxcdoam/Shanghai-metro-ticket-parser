@@ -2,6 +2,7 @@
 SHMRT Shanghai Metro Ticket Parser
 Parses Shanghai Metro tickets (Fudan FM11RF005).
 Usage: script run shmrt_parser
+Author: mxcdoam
 THE Lookup table was created based on data provided by the TripReader project. (https://github.com/domosekai/tripreader-data)
 --]]
 
